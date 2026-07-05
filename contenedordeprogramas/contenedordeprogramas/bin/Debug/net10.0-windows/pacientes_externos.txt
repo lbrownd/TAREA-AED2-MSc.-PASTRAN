@@ -1,0 +1,7 @@
+20,Maria,Medicina General
+30,Ana,Odontología
+40,Jorge,Odontología
+50,Carlos,Medicina General
+60,Sofia,Nutrición
+70,Luis,Pediatría
+80,Andres,Pediatría

@@ -1,0 +1,5 @@
+C:\Users\L\source\repos\contenedordeprogramas\contenedordeprogramas\bin\Release\net10.0-windows\publish\contenedordeprogramas.exe
+C:\Users\L\source\repos\contenedordeprogramas\contenedordeprogramas\bin\Release\net10.0-windows\publish\contenedordeprogramas.dll
+C:\Users\L\source\repos\contenedordeprogramas\contenedordeprogramas\bin\Release\net10.0-windows\publish\contenedordeprogramas.deps.json
+C:\Users\L\source\repos\contenedordeprogramas\contenedordeprogramas\bin\Release\net10.0-windows\publish\contenedordeprogramas.runtimeconfig.json
+C:\Users\L\source\repos\contenedordeprogramas\contenedordeprogramas\bin\Release\net10.0-windows\publish\contenedordeprogramas.pdb
